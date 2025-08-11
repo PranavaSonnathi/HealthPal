@@ -23,7 +23,7 @@ It can:
 - **Libraries**: Pillow, pymongo, regex, json
 
 ## Architecture
-![Architecture Diagram](healthPal/assets/architecture.png)
+![Architecture Diagram](HealthPal/assets/architecture.png)
 
 ## Installation
 ```bash
@@ -32,5 +32,6 @@ cd HealthPal
 pip install -r requirements.txt
 
 streamlit run app.py
+
 
 

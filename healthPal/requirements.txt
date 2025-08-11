@@ -1,0 +1,5 @@
+streamlit==1.46.1
+google-generativeai==0.8.5
+pillow==11.0.0
+pytesseract==0.3.13
+pymongo==4.13.2

@@ -23,11 +23,12 @@ It can:
 - **Libraries**: Pillow, pymongo, regex, json
 
 ## Architecture
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](healthPal/assets/architecture.png)
 
 ## Installation
 ```bash
 git clone https://github.com/PranavaSonnathi/HealthPal.git
 cd HealthPal
 pip install -r requirements.txt
+
 streamlit run app.py
